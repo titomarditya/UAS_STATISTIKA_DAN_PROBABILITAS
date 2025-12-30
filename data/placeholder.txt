@@ -1,0 +1,2 @@
+Folder ini adalah tempat untuk menyimpan dataset mentah Anda (misalnya file .csv atau .xlsx).
+Hapus file ini jika Anda sudah menambahkan dataset.
