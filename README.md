@@ -70,6 +70,8 @@ Standar deviasi yang cukup besar menunjukkan bahwa pendapatan tahunan startup Sa
 - **Visualisasi (Histogram/Boxplot):**
   - *Sematkan gambar plot dari folder /results...*
   ![Histogram Pendapatan Tahunan](results/histogram_Pendapatan_Tahunan_Miliar_IDR.png)
+  ![Boxplot Pendapatan Tahunan](results/boxplot_Pendapatan_Tahunan_Miliar_IDR.png)
+
   - *Interpretasi:* Jelaskan wawasan apa yang Anda dapatkan dari bentuk distribusi data.
 Histogram menunjukkan bahwa pendapatan tahunan startup SaaS tersebar luas dari nilai rendah hingga tinggi. Garis mean sebesar 31,88 miliar IDR berada di tengah sebaran data, menandakan bahwa rata-rata pendapatan berada pada kisaran menengah. Distribusi data tidak terkonsentrasi pada satu nilai tertentu, sehingga menunjukkan variasi pendapatan yang cukup besar antar startup.
 ### 5.2. Uji Normalitas
