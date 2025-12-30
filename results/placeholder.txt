@@ -1,0 +1,2 @@
+Folder ini adalah tempat untuk menyimpan hasil analisis Anda, seperti plot (gambar .png) atau tabel ringkasan (file .csv).
+Hapus file ini jika Anda sudah menyimpan hasil analisis.
